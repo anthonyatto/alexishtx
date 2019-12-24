@@ -1,0 +1,12 @@
+Package: alexishtx
+Title: Fetch and Analyze Data for the Alexis Household
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Anthony",
+           family = "Atto",
+           role = c("aut", "cre"),
+           email = "anthony.richard.atto@gmail.com")
+Description: Gets data from multiple sources.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
