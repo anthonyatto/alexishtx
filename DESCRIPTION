@@ -7,8 +7,9 @@ Authors@R:
            role = c("aut", "cre"),
            email = "anthony.richard.atto@gmail.com")
 Description: Gets data from multiple sources.
-License: What license it uses
+License: file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/anthonyatto/alexishtx
 BugReports: https://github.com/anthonyatto/alexishtx/issues
+RoxygenNote: 7.0.2
