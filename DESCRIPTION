@@ -10,3 +10,5 @@ Description: Gets data from multiple sources.
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/anthonyatto/alexishtx
+BugReports: https://github.com/anthonyatto/alexishtx/issues
